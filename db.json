@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "e7c8",
+      "text": "Fly to Germany for Eras Tour",
+      "day": "July 16th at 5am",
+      "reminder": true
+    },
+    {
+      "id": "47ce",
+      "text": "Eras Tour in Veltins Arena - Gelsenkirchen, Germany",
+      "day": "July 18th at 7pm",
+      "reminder": true
+    },
+    {
+      "id": "4f55",
+      "text": "Fly home from once-in-a-lifetime experience",
+      "day": "July 19th at 11am",
+      "reminder": true
+    }
+  ]
+}

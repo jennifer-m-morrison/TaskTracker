@@ -1,0 +1,15 @@
+footer {
+margin-top: 30px;
+text-align: center;
+}
+
+
+footer a,
+footer a:visited {
+    color: green;
+}
+
+footer a:hover {
+color: #007bff;
+}
+
